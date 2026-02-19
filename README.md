@@ -1,3 +1,6 @@
+## Project Type
+Personal QA Practice Project simulating real-world API testing workflow.
+
 # QA Engineer Portfolio
 
 Hello! My name is Alex Baronas.
@@ -10,6 +13,16 @@ This repository demonstrates my QA skills through practical testing projects.
 - Bug Reporting
 - REST API validation
 - Test documentation
+
+## QA Skills
+- API Testing
+- REST API validation
+- Postman
+- Test Case Design
+- Bug Reporting
+- Manual Testing
+- Basic JavaScript assertions
+- Git & GitHub workflow
 
 ---
 
@@ -39,6 +52,12 @@ Manual test cases designed for User API functionality.
 Example bug reports created based on API behavior analysis.
 
 📁 See: /Bug-Reports
+
+---
+
+## Test Execution Example
+
+![Runner Results](screenshots/runner_results.png)
 
 ---
 
